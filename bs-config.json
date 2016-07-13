@@ -1,0 +1,11 @@
+{
+  "port": 3000,
+  "server": {
+    "baseDir": [
+      "./",
+      "app"
+    ],
+    "index": "index.html"
+  },
+  "reloadDelay": 15000
+}
